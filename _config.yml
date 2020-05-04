@@ -1,14 +1,14 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
+name: SJeon
+title: SJeon's Blog
+description: SJeon's Blog
 tags:
   - blog
   - template
   - jekyll
   - theme
   - netlify
-email: youremail@xyz.com
+email: sj.park@sookmyung.ac.kr
 disqus_username: disqus_username
 show_hero: true
 menu:
@@ -24,12 +24,12 @@ menu:
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+github_username: sjp76
+# facebook_username: facebook_username
+# twitter_username: twitter_username
+# instagram_username: instagram_username
+# linkedin_username: linkedin_username
+# medium_username: medium_username
 
 
 # Posts Settings
